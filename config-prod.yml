@@ -1,1 +1,3 @@
-
+config:
+  info: "mast branch,springcloud-cofig/config-prod.yml"
+  version: 1
